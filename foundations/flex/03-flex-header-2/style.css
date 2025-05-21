@@ -79,3 +79,6 @@ a {
 ul {
   list-style-type: none;
 }
+
+/* I really over-complicated this solution, wow. Less is more!
+Think: How to manipulate contents within containers and containers within each other.*/
